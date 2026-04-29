@@ -17,7 +17,7 @@ const CONFIG = {
 
     // 📱 LIFF IDs
     LIFF_ID_CHECKIN: "2009688786-BqS3rfcz",
-    LIFF_ID_HISTORY: "2009688786-BqS3rfcz",
+    LIFF_ID_HISTORY: "2009688786-lz6YU8Sl",
    
 
     // 📍 การตั้งค่าพิกัดสถานที่ (ละติจูด, ลองจิจูด)
